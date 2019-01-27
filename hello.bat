@@ -1,6 +1,7 @@
+REM disables showing executed script commands in console
 @ECHO OFF
 
-REM this will print empty line
+REM prints empty line
 ECHO.
-REM this will print a message in a console
+REM prints a message
 ECHO "Hello World!"
